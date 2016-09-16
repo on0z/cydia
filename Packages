@@ -1,15 +1,15 @@
 Package: com.on0z.bookmarks
 Architecture: iphoneos-arm
-Version: 6.0.0-6
+Version: 6.0.1-4
 Section: Utilities
 Maintainer: on0z
 Depends: firmware (>= 8.4)
-Filename: ./debs/bookmarks_6.0.0-6.deb
-Size: 8737926
-MD5sum: d389b20ddee8546b4e5f4513c8c41e1b
-SHA1: f6cdc39bc4c6b453453065edf310d9372ca9bc0a
-SHA256: 1f342bb0138b18fc33cb7d10d4ad9c2341fd1a79d73640a4a9b3ec3608411b08
-SHA512: 0dd44847bd27993c760853845b2022a3e36d828ec724a44171d61dcd21be40cb1db67c42896de7d6fc0d7f29b9ca8c0002e799bd3c0eae498c79e1588d8902fc
+Filename: ./debs/bookmarks_6.0.1-4.deb
+Size: 8742858
+MD5sum: 8466e89f96d155a096387c1dd1c2ae28
+SHA1: 07ff9932aa9068902f7f10878ef1ff4a5cbbb320
+SHA256: 2193d20003a080c78b903114aafcb82533b1c3d69fdf220a5e362b8c15853b13
+SHA512: 0be23c6dfb7620c114b83e7fe80f25f61ed416b0c6c54e32b28396dbef268ea1f947c512a02f6b30e2d4aee852ed0d2c2a1045bf2f75f479a0cdf827dac1a019
 Description: bookmarksアプリ
 Name: bookmarks
 Author: on0z
