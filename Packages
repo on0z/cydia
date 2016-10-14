@@ -17,18 +17,18 @@ Author: on0z
 
 Package: com.on0z.kAni
 Architecture: iphoneos-arm
-Version: 1.0.0-1
+Version: 1.0.0-2
 Section: Utilities
 Maintainer: on0z
 Depends: firmware (>= 8.4)
 Filename: ./debs/kAni_1.0.0-2.deb
 Size: 8709508
-MD5sum: bafb55b3899af9ff9d2ba5a3df4f1ea8
-SHA1: 8216d655df510b1cc1c99d9d90910901d8e39c3a
-SHA256: f387da02995e0552ddafb2fc7b5d6bf4a9058847c9afc9400a46e5eac54de848
-SHA512: 7e1175190c819ec45a04674807d91769bde601ff0508bca99169ee7eff71f5fed8caa320a83b0769dacd5d227a297f42196455e9fe37dd043ba9c30b6c060b14
+MD5sum: 3361c6bb71f9dfd9e10c1543c3a6fbd4
+SHA1: ffcba0a9065fdeedc45af40db80b1cfa5f99f31b
+SHA256: 5e1ae674adf9304302d34dd1225c3ca84fc35a763bdd2c7445f4eaf8c4a11dab
+SHA512: 462eb07402feba841a3daaf3e7fe4a33dd767056916e4e547c5203204455c2be81578eb13210acd01952ae68b1313dce8e926e23241b6a0634620aa6b6febe95
 Description: kAni(旧bookmarks)
 Name: kAni
 Author: on0z
-Icon: icon.png
+Icon: ./icon.png
 
