@@ -1,0 +1,34 @@
+Package: com.on0z.batmansignalbar
+Architecture: iphoneos-arm
+Version: 0.2
+Section: Themes
+Maintainer: on0z
+Depends: winterboard
+Filename: ./debs/BatmanSignalbar.deb
+Size: 26002
+MD5sum: 227b15362e7252238736b4cfd9fbffce
+SHA1: c205157b4bd34471916eeac1b8a235cf0a9b6790
+SHA256: ac4819d312d17266753d28c7cb842d4e8fa1c79617910253e3063544533dec23
+SHA512: 243122be511d48639b9a5457e2790ae8c203fc2da2319a3b023e09f5ac5e000a9a07cff1293c2d0338bcedf92ee516d2e5e32c113504f6a839d510066e9431c7
+Homepage: https://on0z.github.io/cydia/p/com.on0z.batmansignalbar
+Description: コウモリのシグナルのテーマ
+Name: BatmanSignalbar
+Author: on0z
+
+Package: com.on0z.kAni
+Architecture: iphoneos-arm
+Version: 1.0.0-1
+Section: Utilities
+Maintainer: on0z
+Depends: firmware (>= 8.4)
+Filename: ./debs/kAni_1.0.0-2.deb
+Size: 8709508
+MD5sum: bafb55b3899af9ff9d2ba5a3df4f1ea8
+SHA1: 8216d655df510b1cc1c99d9d90910901d8e39c3a
+SHA256: f387da02995e0552ddafb2fc7b5d6bf4a9058847c9afc9400a46e5eac54de848
+SHA512: 7e1175190c819ec45a04674807d91769bde601ff0508bca99169ee7eff71f5fed8caa320a83b0769dacd5d227a297f42196455e9fe37dd043ba9c30b6c060b14
+Description: kAni(旧bookmarks)
+Name: kAni
+Author: on0z
+Icon: icon.png
+
